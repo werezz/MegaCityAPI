@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c997919-ca3a-4116-8ad5-8e33f26a9cc4": {
+      "ProjectGuid": "4c997919-ca3a-4116-8ad5-8e33f26a9cc4",
+      "DisplayName": "MegaCity",
+      "ColorIndex": 0
+    },
+    "3a510a3b-9ecc-4e7e-9723-081364d8ff5e": {
+      "ProjectGuid": "3a510a3b-9ecc-4e7e-9723-081364d8ff5e",
+      "DisplayName": "MegaCity.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
